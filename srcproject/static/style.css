@@ -1,0 +1,122 @@
+body{
+	font-weight: 300;
+	font-family: 'Open Sans', sans-serif;
+	padding: 0 !important;
+	padding: 0 !important;
+}
+
+.btn-login{
+	padding: 4px 20px !important;
+	margin-top: 9.5px;
+	margin-left: 20px;
+	background-color: #fff !important;
+	color: #27AE60 !important;
+	border-width: 1px !important;
+	border-color: #fff !important;
+	border-radius: 3px;
+}
+
+.btn-login:hover{
+	background-color: #fff !important;
+	color: #27AE60;
+}
+
+.btn-register{
+	padding: 4px 20px !important;
+	margin-top: 9.5px;
+	margin-left: 20px;
+	background-color: #fff !important;
+	color: #27AE60 !important;
+	border-width: 1px !important;
+	border-color: #fff !important;
+	border-radius: 3px;
+}
+
+.btn-register{
+	background-color: #fff !important;
+	color: #27AE60;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover
+{
+	background-color: #fff !important;
+}
+
+.nav-top{
+	background-color: #27ae60 !important;
+	border-radius: 0 !important;
+	border: none !important;
+}
+
+.navbar-brand b{
+	color: #27AE60 !important;
+	font-weight: 600;
+	font-size: 25px;
+	background-color: #fff;
+	padding: 4px 12px;
+	border-radius: 6px;
+}
+
+
+.resources-wrapper{
+	position: relative;
+}
+
+.resources-wrapper .list-group, .resources-wrapper .list-group-item{
+	border-radius: 0 !important;
+}
+
+.resources-wrapper .list-group{
+	margin-top: 20px;
+}
+
+.list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover{
+	background-color: #27AE60 !important;
+	border-color:  #27AE60 !important;
+}
+
+.list-group-item{
+	padding-left: 60px !important;
+}
+
+.list-group-item h4{
+	font-family: 'Open Sans', sans-serif;
+}
+
+.list-group-item p{
+	font-family: 'Open Sans', sans-serif;
+}
+
+.list-group-item span{
+	position: absolute;
+    left: 2.2%;
+    font-size: 30px;
+    top: 24%;
+    color: #DBA828;
+}
+
+.resources-wrapper h3{
+	color: #27AE60;
+	font-family: 'Open Sans', sans-serif;
+	margin-top: 50px;
+}
+
+.details-wrapper{
+
+}
+
+.add-button{
+	position: absolute;
+	right: 15px;
+	top: 50px;
+	border-radius: 0 !important;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.modal-title, label{
+	font-family: 'Open Sans', sans-serif;
+}
+
+input, textarea, select, .modal-content, button{
+	border-radius: 0 !important;
+}
